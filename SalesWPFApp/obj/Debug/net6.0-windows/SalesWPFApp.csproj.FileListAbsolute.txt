@@ -1,0 +1,120 @@
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\SalesWPFApp.exe
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\SalesWPFApp.deps.json
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\SalesWPFApp.runtimeconfig.json
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\SalesWPFApp.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\SalesWPFApp.pdb
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp.csproj.AssemblyReference.cache
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\App.g.cs
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp_MarkupCompile.cache
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp_MarkupCompile.lref
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\MainWindow.baml
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp.g.resources
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp.AssemblyInfoInputs.cache
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp.AssemblyInfo.cs
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp.csproj.CoreCompileInputs.cache
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\refint\SalesWPFApp.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp.pdb
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp.genruntimeconfig.cache
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\ref\SalesWPFApp.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\AutoMapper.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\BusinessObject.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\DataAccess.dll
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\DataAccess.pdb
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\BusinessObject.pdb
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp.csproj.CopyComplete
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\Login.g.cs
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\Login.baml
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\MemberWindow.g.cs
+D:\PRN221 RE\WPF\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\MemberWindow.baml
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\SalesWPFApp.exe
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\SalesWPFApp.deps.json
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\SalesWPFApp.runtimeconfig.json
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\SalesWPFApp.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\SalesWPFApp.pdb
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\AutoMapper.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\BusinessObject.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\DataAccess.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\DataAccess.pdb
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\BusinessObject.pdb
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\Login.g.cs
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\MemberWindow.g.cs
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp_MarkupCompile.cache
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp_MarkupCompile.lref
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\Login.baml
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\MemberWindow.baml
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp.g.resources
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp.csproj.CopyComplete
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\refint\SalesWPFApp.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp.pdb
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\ref\SalesWPFApp.dll

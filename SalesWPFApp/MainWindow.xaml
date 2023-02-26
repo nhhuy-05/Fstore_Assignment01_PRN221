@@ -1,0 +1,14 @@
+﻿<Window x:Class="SalesWPFApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SalesWPFApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="400">
+    <Grid>
+        <Button Name="btnMember" Content="Member" HorizontalAlignment="Center" Margin="0,37,0,0" VerticalAlignment="Top" Width="136" Click="btnMember_Click"/>
+        <Button Name="btnOrder" Content="Order" HorizontalAlignment="Center" VerticalAlignment="Center" Width="136"/>
+        <Button Name="btnProduct" Content="Product" HorizontalAlignment="Center" Margin="0,129,0,0" VerticalAlignment="Top" Width="136"/>
+    </Grid>
+</Window>

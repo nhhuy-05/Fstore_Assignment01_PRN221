@@ -1,0 +1,28 @@
+D:\PRN221 RE\WPF\Ass01Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\PRN221 RE\WPF\Ass01Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+D:\PRN221 RE\WPF\Ass01Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\PRN221 RE\WPF\Ass01Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\PRN221 RE\WPF\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+D:\PRN221 RE\WPF\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN221 RE\WPF\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\PRN221 RE\WPF\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\PRN221 RE\WPF\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\PRN221 RE\WPF\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\PRN221 RE\WPF\Ass01Solution\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\PRN221 RE\WPF\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\PRN221 RE\WPF\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+D:\PRN221 RE\WPF\Ass01Solution\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll

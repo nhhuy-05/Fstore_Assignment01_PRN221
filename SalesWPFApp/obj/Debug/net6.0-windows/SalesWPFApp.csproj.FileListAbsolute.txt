@@ -118,3 +118,13 @@ C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-
 C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp.pdb
 C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\SalesWPFApp.genruntimeconfig.cache
 C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\ref\SalesWPFApp.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\App.baml
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\obj\Debug\net6.0-windows\ResourceXAML\MainResource.baml
+C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll

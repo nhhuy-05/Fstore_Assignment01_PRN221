@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Admin\Desktop\Ass01Solution\Ass01Solution\SalesWPFApp\App.xaml
-3789604811
+61595823438
 
-71376180980
-217-1557856408
-Login.xaml;MainWindow.xaml;MemberWindow.xaml;
+15-1993578530
+224-225066855
+ResourceXAML\MainResource.xaml;Windows\Admin\MemberWindow.xaml;Windows\Admin\OrderWindow.xaml;Windows\Admin\ProductWindow.xaml;Windows\Shared\Login.xaml;Windows\Shared\MainWindow.xaml;
 
-True
+False
 

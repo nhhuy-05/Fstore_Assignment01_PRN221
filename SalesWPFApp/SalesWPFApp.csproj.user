@@ -7,21 +7,36 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="Login.xaml.cs">
+    <Compile Update="Windows\Admin\MemberWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="MemberWindow.xaml.cs">
+    <Compile Update="Windows\Admin\OrderWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\Admin\ProductWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\Shared\Login.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="Login.xaml">
+    <Page Update="Windows\Admin\MemberWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="MainWindow.xaml">
+    <Page Update="Windows\Admin\OrderWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="MemberWindow.xaml">
+    <Page Update="Windows\Admin\ProductWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\Shared\Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\Shared\MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ResourceXAML\MainResource.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
